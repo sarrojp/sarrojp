@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sarroj 👋
 
-<!--
-**sarrojp/sarrojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Consultant with 11+ years of experience designing and building scalable Enterprise, Real Estate, EdTech, and E-commerce applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- PHP (Laravel, Symfony, Laminas, CodeIgnitor, Zend)
+- Python (FastAPI)
+- React.js, Vue.js
+- MySQL, PostgreSQL, MongoDB, GraphQL
+- REST APIs, GraphQL
+- Docker, Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building modern backend APIs with FastAPI
+- Developing scalable PHP/Laravel applications
+- Exploring AI-assisted software development and LLM integrations
+
+📫 Open to Senior Full-Stack Developer / Technical Consultant opportunities.
