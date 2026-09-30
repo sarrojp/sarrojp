@@ -1,4 +1,4 @@
-# Hi, I'm Sarroj 👋
+# Hi, I'm Sarroj P 👋
 
 Senior Full-Stack Consultant with 11+ years of experience designing and building scalable Enterprise, Real Estate, EdTech, and E-commerce applications.
 
